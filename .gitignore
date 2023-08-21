@@ -1,0 +1,15 @@
+keys.txt
+flagged
+__pycache__
+.idea
+myenv
+test.py 
+openai_api_key.txt
+.venv
+pyproject.toml
+test-audio-file
+tts-key.txt
+tests
+test
+audio/test.mp3
+.pytest_cache
